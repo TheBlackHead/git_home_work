@@ -3,3 +3,7 @@
 void func_test() {
 
 }
+
+void help() {
+
+}
